@@ -1,5 +1,5 @@
 ---
-title: My first git repo
+title: My first git repo (conflict_test branch)
 author: Natalie Rivas
 output: github_document
 ---
